@@ -1,0 +1,202 @@
+      object_id                                Decision      object avoided
+              1        continuing to destination object             vehicle
+              2        continuing to destination object             vehicle
+              3        continuing to destination object             bicycle
+              4                    breaking for object              bicycle
+              5        continuing to destination object             bicycle
+              6        continuing to destination object             vehicle
+              7        continuing to destination object          pedestrian
+              8        continuing to destination object          pedestrian
+              9        continuing to destination object             bicycle
+             10        continuing to destination object             vehicle
+             11        continuing to destination object             bicycle
+             12        continuing to destination object             vehicle
+             13                    breaking for object              bicycle
+             14                    breaking for object              bicycle
+             15                    breaking for object              bicycle
+             16        continuing to destination object          pedestrian
+             17                    breaking for object              bicycle
+             18                    breaking for object           pedestrian
+             19                    breaking for object           pedestrian
+             20        continuing to destination object             bicycle
+             21        continuing to destination object          pedestrian
+             22        continuing to destination object             vehicle
+             23                    breaking for object           pedestrian
+             24        continuing to destination object             bicycle
+             25        continuing to destination object          pedestrian
+             26        continuing to destination object          pedestrian
+             27                    breaking for object           pedestrian
+             28        continuing to destination object             bicycle
+             29        continuing to destination object          pedestrian
+             30                    breaking for object              bicycle
+             31        continuing to destination object          pedestrian
+             32        continuing to destination object          pedestrian
+             33        continuing to destination object          pedestrian
+             34        continuing to destination object             vehicle
+             35                    breaking for object              vehicle
+             36                    breaking for object           pedestrian
+             37        continuing to destination object          pedestrian
+             38        continuing to destination object             vehicle
+             39        continuing to destination object             bicycle
+             40        continuing to destination object             vehicle
+             41        continuing to destination object             bicycle
+             42                    breaking for object              bicycle
+             43                    breaking for object           pedestrian
+             44        continuing to destination object          pedestrian
+             45        continuing to destination object          pedestrian
+             46        continuing to destination object             bicycle
+             47        continuing to destination object          pedestrian
+             48        continuing to destination object             vehicle
+             49        continuing to destination object             vehicle
+             50        continuing to destination object             vehicle
+             51        continuing to destination object             vehicle
+             52        continuing to destination object             vehicle
+             53        continuing to destination object             vehicle
+             54                    breaking for object              bicycle
+             55                    breaking for object              vehicle
+             56        continuing to destination object          pedestrian
+             57                    breaking for object              bicycle
+             58                    breaking for object           pedestrian
+             59                    breaking for object              vehicle
+             60        continuing to destination object          pedestrian
+             61        continuing to destination object          pedestrian
+             62                    breaking for object           pedestrian
+             63        continuing to destination object             vehicle
+             64                    breaking for object           pedestrian
+             65        continuing to destination object             bicycle
+             66                    breaking for object              vehicle
+             67        continuing to destination object             vehicle
+             68                    breaking for object              bicycle
+             69        continuing to destination object             bicycle
+             70                    breaking for object           pedestrian
+             71        continuing to destination object          pedestrian
+             72                    breaking for object              bicycle
+             73                    breaking for object              vehicle
+             74        continuing to destination object          pedestrian
+             75        continuing to destination object             vehicle
+             76                    breaking for object           pedestrian
+             77        continuing to destination object             bicycle
+             78        continuing to destination object             vehicle
+             79        continuing to destination object          pedestrian
+             80        continuing to destination object          pedestrian
+             81        continuing to destination object             vehicle
+             82        continuing to destination object             vehicle
+             83        continuing to destination object             vehicle
+             84                    breaking for object           pedestrian
+             85                    breaking for object              vehicle
+             86        continuing to destination object             bicycle
+             87        continuing to destination object             bicycle
+             88        continuing to destination object             bicycle
+             89                    breaking for object           pedestrian
+             90                    breaking for object              bicycle
+             91                    breaking for object              vehicle
+             92                    breaking for object              vehicle
+             93        continuing to destination object          pedestrian
+             94        continuing to destination object             vehicle
+             95                    breaking for object              bicycle
+             96        continuing to destination object             bicycle
+             97                    breaking for object              bicycle
+             98        continuing to destination object             vehicle
+             99        continuing to destination object             vehicle
+            100        continuing to destination object             bicycle
+            101                    breaking for object           pedestrian
+            102        continuing to destination object             vehicle
+            103        continuing to destination object             vehicle
+            104        continuing to destination object             bicycle
+            105                    breaking for object           pedestrian
+            106                    breaking for object              vehicle
+            107                    breaking for object              vehicle
+            108        continuing to destination object          pedestrian
+            109        continuing to destination object             vehicle
+            110        continuing to destination object             vehicle
+            111        continuing to destination object          pedestrian
+            112        continuing to destination object          pedestrian
+            113        continuing to destination object             vehicle
+            114        continuing to destination object          pedestrian
+            115                    breaking for object              vehicle
+            116                    breaking for object              vehicle
+            117        continuing to destination object             bicycle
+            118                    breaking for object              bicycle
+            119        continuing to destination object          pedestrian
+            120        continuing to destination object             vehicle
+            121        continuing to destination object             vehicle
+            122                    breaking for object              vehicle
+            123        continuing to destination object          pedestrian
+            124        continuing to destination object             vehicle
+            125        continuing to destination object             vehicle
+            126        continuing to destination object          pedestrian
+            127        continuing to destination object          pedestrian
+            128                    breaking for object           pedestrian
+            129        continuing to destination object          pedestrian
+            130        continuing to destination object             bicycle
+            131        continuing to destination object          pedestrian
+            132                    breaking for object              vehicle
+            133                    breaking for object              bicycle
+            134                    breaking for object              bicycle
+            135                    breaking for object              vehicle
+            136        continuing to destination object             bicycle
+            137        continuing to destination object          pedestrian
+            138                    breaking for object              bicycle
+            139        continuing to destination object             bicycle
+            140        continuing to destination object          pedestrian
+            141        continuing to destination object             bicycle
+            142                    breaking for object           pedestrian
+            143        continuing to destination object          pedestrian
+            144        continuing to destination object             bicycle
+            145                    breaking for object              bicycle
+            146        continuing to destination object             vehicle
+            147                    breaking for object              vehicle
+            148        continuing to destination object             vehicle
+            149        continuing to destination object             bicycle
+            150                    breaking for object              bicycle
+            151                    breaking for object              bicycle
+            152        continuing to destination object             vehicle
+            153        continuing to destination object             bicycle
+            154        continuing to destination object             bicycle
+            155        continuing to destination object          pedestrian
+            156                    breaking for object              vehicle
+            157        continuing to destination object             vehicle
+            158        continuing to destination object          pedestrian
+            159                    breaking for object              vehicle
+            160        continuing to destination object             bicycle
+            161                    breaking for object              bicycle
+            162        continuing to destination object             bicycle
+            163        continuing to destination object             bicycle
+            164                    breaking for object           pedestrian
+            165        continuing to destination object             vehicle
+            166        continuing to destination object             vehicle
+            167                    breaking for object           pedestrian
+            168        continuing to destination object          pedestrian
+            169                    breaking for object              bicycle
+            170                    breaking for object           pedestrian
+            171                    breaking for object              bicycle
+            172        continuing to destination object             bicycle
+            173                    breaking for object              bicycle
+            174        continuing to destination object          pedestrian
+            175        continuing to destination object             vehicle
+            176        continuing to destination object             vehicle
+            177        continuing to destination object          pedestrian
+            178        continuing to destination object          pedestrian
+            179        continuing to destination object             vehicle
+            180                    breaking for object              bicycle
+            181        continuing to destination object             bicycle
+            182        continuing to destination object             vehicle
+            183        continuing to destination object             bicycle
+            184                    breaking for object              bicycle
+            185                    breaking for object           pedestrian
+            186                    breaking for object              vehicle
+            187        continuing to destination object             bicycle
+            188        continuing to destination object             bicycle
+            189        continuing to destination object             vehicle
+            190        continuing to destination object             bicycle
+            191                    breaking for object              bicycle
+            192                    breaking for object              bicycle
+            193        continuing to destination object             bicycle
+            194        continuing to destination object          pedestrian
+            195        continuing to destination object          pedestrian
+            196        continuing to destination object          pedestrian
+            197                    breaking for object              bicycle
+            198                    breaking for object              bicycle
+            199                    breaking for object           pedestrian
+            200                    breaking for object           pedestrian
+collisions avoided: 73
